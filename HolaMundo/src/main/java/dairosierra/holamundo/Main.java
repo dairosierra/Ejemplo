@@ -20,6 +20,8 @@ public class Main {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "hola");
         JOptionPane.showMessageDialog(null, "y chao");
+        JOptionPane.showMessageDialog(null, "Porfin pude");
+        
         
     }
     
